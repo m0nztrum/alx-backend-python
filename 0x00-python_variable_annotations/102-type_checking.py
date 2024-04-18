@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+"""
+Task 12: Type checking (using mypy)
+"""
+
 from typing import List, Tuple
 
 
